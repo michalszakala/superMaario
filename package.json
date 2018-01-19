@@ -1,0 +1,23 @@
+{
+  "name": "supermario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szakavatott/superMaario.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szakavatott/superMaario/issues"
+  },
+  "homepage": "https://github.com/szakavatott/superMaario#readme",
+  "dependencies": {
+    "serve": "6.4.8"
+  }
+}
