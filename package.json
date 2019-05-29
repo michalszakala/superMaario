@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/szakavatott/superMaario#readme",
   "dependencies": {
-    "serve": "6.4.8"
+    "serve": "11.0.1"
   }
 }
